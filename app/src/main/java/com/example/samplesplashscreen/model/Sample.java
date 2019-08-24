@@ -1,5 +1,6 @@
 package com.example.samplesplashscreen.model;
 
+
 public class Sample {
     private int id;
     private String title;
